@@ -11,10 +11,7 @@ A **Streamlit-based website summarizer** that allows users to:
 
 ## 🚀 Live Demo
 
-🔗 **[Click here to access the live app](YOUR_STREAMLIT_LINK_HERE)**
-
-> Replace `YOUR_STREAMLIT_LINK_HERE` with your **Streamlit Cloud deployed link** once you deploy.
-
+🔗https://website-summarizer-jvf9mw9ceueamfceuxndfh.streamlit.app/
 ---
 
 ## ⚡ Features
@@ -42,6 +39,6 @@ A **Streamlit-based website summarizer** that allows users to:
 Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/contentblah1.git
+git clone https://github.com/anushka2709/contentblah1.git
 cd contentblah1
 
